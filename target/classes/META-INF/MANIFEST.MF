@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: HelloWorld-example
+Implementation-Version: 0.1.0
+Built-By: lvismara
+Implementation-Vendor-Id: br.com.indra.HelloWorld
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/HelloWorld-e
+ xample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
